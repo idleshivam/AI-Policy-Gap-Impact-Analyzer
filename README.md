@@ -24,3 +24,7 @@ It also checks whether a citizen is eligible for a policy based on their profile
 - Welfare scheme eligibility tools
 - Policy impact studies
 - Civic tech applications
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/YOUR_USERNAME/ai-policy-impact-analyzer/blob/main/policy-impact-analyzer.ipynb)
+
