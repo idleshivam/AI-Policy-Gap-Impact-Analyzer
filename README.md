@@ -1,2 +1,26 @@
-# AI-Policy-Gap-Impact-Analyzer
-An AI-powered public policy analysis system. Users can upload multiple government scheme documents (PDFs), which are analyzed using Large Language Models (LLMs) to extract eligibility criteria, benefits, constraints, and target demographics.
+# AI Government Policy Impact & Eligibility Analyzer
+
+This project uses Large Language Models to analyze government welfare policies and determine their impact across different sectors.
+
+It also checks whether a citizen is eligible for a policy based on their profile.
+
+## Features
+
+- Extract structured policy information
+- Sector-wise policy impact analysis
+- Citizen eligibility checking
+- Cross-sector policy insights
+
+## Technologies Used
+
+- Python
+- LLM APIs (Groq)
+- Google Colab
+- Prompt Engineering
+
+## Example Use Cases
+
+- Government policy research
+- Welfare scheme eligibility tools
+- Policy impact studies
+- Civic tech applications
